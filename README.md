@@ -48,6 +48,7 @@ Deseja criar uma nova lista? (s/n): n
 Digite o nome do arquivo que deseja abrir: lista.txt
 
 --- Conteúdo do arquivo ---
+
 Comprar pão
 Estudar Python
 
