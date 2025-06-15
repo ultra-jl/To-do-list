@@ -1,6 +1,6 @@
 Lista de Tarefas - Python (To-Do List)
 
-Este é um simples programa de **Lista de Tarefas (To-Do List)feito em **Python**, onde você pode:
+Este é um simples programa de Lista de Tarefas (To-Do List) feito em **Python**, onde você pode:
 
 - Criar novos arquivos de tarefas
 - Adicionar tarefas
